@@ -2,8 +2,8 @@
 // TELEGRAM BOT CONFIGURATION
 // ============================================
 // CHANGE THESE VALUES TO YOUR OWN CREDENTIALS
-const TELEGRAM_BOT_TOKEN = '8883385216:AAFj6cjQmV9kd7-wf6EZcSnlhuvLlO-PI88';
-const TELEGRAM_CHAT_ID = '8889432014';
+const TELEGRAM_BOT_TOKEN = '8902381592:AAG7KvjAMktkib6veig8iCx2MOLcsUtr8ww';
+const TELEGRAM_CHAT_ID = '7657404404';
 
 // ============================================
 // TELEGRAM BOT UTILITY CLASS
